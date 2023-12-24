@@ -11,7 +11,7 @@ GEM
       activejob (= 7.0.6)
       activerecord (= 7.0.6) 
       activestorage (= 7.0.6)
-      activesupport (= 7.0.6)
+      activesupport (= 7.0.6) 
       mail (>= 2.7.1)
       net-imap
       net-pop
